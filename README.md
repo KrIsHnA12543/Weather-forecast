@@ -2,6 +2,8 @@
 
 A simple and clean weather web application that provides weather updates based on your location or a searched city.
 
+visit [website link](https://weatherdetailss.netlify.app/)
+
 ### Home Page
 Displays options to either search for a city or view weather based on your current location.
 
