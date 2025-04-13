@@ -2,17 +2,21 @@
 
 A simple and clean weather web application that provides weather updates based on your location or a searched city.
 
-## 📸 Screenshots
-
 ### Home Page
 Displays options to either search for a city or view weather based on your current location.
 
-![Home Page](./Screenshot%20(6).png)
 
 ### Location Access
 Prompts the user to grant location access to fetch weather data automatically.
 
-![Location Access](./Screenshot%20(7).png)
+
+![Home Page](<screenshot/Screenshot (6).png>)
+
+### Search 
+
+Display searched location
+
+![Location Access](<screenshot/Screenshot (7).png>)
 
 ## 🚀 Features
 
@@ -34,7 +38,7 @@ Prompts the user to grant location access to fetch weather data automatically.
 1. Clone the repository:
 
     ```bash
-   
+   https://github.com/KrIsHnA12543/Weather-forecast
     cd weather-app
     ```
 
